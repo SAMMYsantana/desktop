@@ -1,4 +1,4 @@
-#!/bin/sh
+pplohm#!/bin/sh
 
 # The least terrible way to resolve a symlink to its real path.
 function realpath() {
